@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring_Boot.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring_Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/delivery-agent/Spring_Boot.delivery-agent.iml" filepath="$PROJECT_DIR$/.idea/modules/delivery-agent/Spring_Boot.delivery-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/delivery-agent/Spring_Boot.delivery-agent.main.iml" filepath="$PROJECT_DIR$/.idea/modules/delivery-agent/Spring_Boot.delivery-agent.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/delivery-agent/Spring_Boot.delivery-agent.test.iml" filepath="$PROJECT_DIR$/.idea/modules/delivery-agent/Spring_Boot.delivery-agent.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restuarent-partner/Spring_Boot.restuarent-partner.iml" filepath="$PROJECT_DIR$/.idea/modules/restuarent-partner/Spring_Boot.restuarent-partner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restuarent-partner/Spring_Boot.restuarent-partner.main.iml" filepath="$PROJECT_DIR$/.idea/modules/restuarent-partner/Spring_Boot.restuarent-partner.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restuarent-partner/Spring_Boot.restuarent-partner.test.iml" filepath="$PROJECT_DIR$/.idea/modules/restuarent-partner/Spring_Boot.restuarent-partner.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swiggy-api/Spring_Boot.swiggy-api.iml" filepath="$PROJECT_DIR$/.idea/modules/swiggy-api/Spring_Boot.swiggy-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swiggy-api/Spring_Boot.swiggy-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/swiggy-api/Spring_Boot.swiggy-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swiggy-api/Spring_Boot.swiggy-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/swiggy-api/Spring_Boot.swiggy-api.test.iml" />
+    </modules>
+  </component>
+</project>
